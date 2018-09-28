@@ -1,0 +1,68 @@
+
+body{
+	font-family: helvetica, sans-serif;
+
+}
+section, footer{
+	padding: 40px;
+}
+#encabezado{
+		background-color: #fd5353;
+		width: auto;
+		padding: 0px;
+		display: flex;
+		margin-top: auto;
+}
+
+#baseDatos{
+	width: 90px;
+	height: 90px;
+}
+
+#identificacion, #visto{
+	border-style: solid;
+	height: 129.8px;
+	border-width: 2px;
+}
+#cc1{
+	width: 210px;
+	height: 160px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+#ingreso{
+	border-style: solid;
+	border-width: 2px;
+}
+
+.imagen{
+	border-style: solid;
+	border-width: 2px;
+}
+#formulario{
+	text-align: center;	
+	width: auto;
+}
+
+#ejemplos{
+	font-size: 200%;
+	text-decoration-line: underline;
+}
+
+#ejercicios{
+	font-size: 200%;
+	color: black;
+	text-decoration-line: underline;
+}
+
+#content1, #content2, #content3 ,#content4 {
+	border-style: solid;
+	border-width: 2px;
+	padding-left: 1px;
+}
+
+
+
+
